@@ -58,7 +58,7 @@ export const translations = {
       emailLabel: 'E-mail',
     },
     footer: {
-      rights: '© 2024 BeRu Stone. Minden jog fenntartva.',
+      rights: '© 2026 BeRu Stone. Minden jog fenntartva.',
       tagline: 'Vasúti zúzottkő-tisztítási szakértők',
     },
   },
@@ -119,7 +119,7 @@ export const translations = {
       emailLabel: 'Email',
     },
     footer: {
-      rights: '© 2024 BeRu Stone. All rights reserved.',
+      rights: '© 2026 BeRu Stone. All rights reserved.',
       tagline: 'Railway Ballast Cleaning Experts',
     },
   },
