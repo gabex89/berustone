@@ -19,7 +19,7 @@ const ContactSection = () => {
             </div>
             <div>
               <h4 className="font-semibold text-foreground mb-1">{t.contact.address}</h4>
-              <p className="text-muted-foreground">1234 Budapest, Vasút utca 42.<br />Magyarország / Hungary</p>
+              <p className="text-muted-foreground">6753 Szeged, hrsz.: 02047/27 <br />Magyarország / Hungary</p>
             </div>
           </div>
 
@@ -29,7 +29,7 @@ const ContactSection = () => {
             </div>
             <div>
               <h4 className="font-semibold text-foreground mb-1">{t.contact.phoneLabel}</h4>
-              <p className="text-muted-foreground">+36 1 234 5678</p>
+              <p className="text-muted-foreground">+36 20 932 3082</p>
             </div>
           </div>
 
