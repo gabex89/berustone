@@ -39,7 +39,7 @@ const ContactSection = () => {
             </div>
             <div>
               <h4 className="font-semibold text-foreground mb-1">{t.contact.emailLabel}</h4>
-              <p className="text-muted-foreground">info@berustone.hu</p>
+              <p className="text-muted-foreground">berustone5@gmail.com</p>
             </div>
           </div>
         </div>
